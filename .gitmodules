@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "htsr"]
 	path = htsr
-	url = https://github.com/cran/htsr
+	url = https://github.com/p-chevallier/htsr
